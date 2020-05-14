@@ -14,7 +14,7 @@ id,countryName,countryPop
 13,Philippines,109581078
 14,Egypt,102334404
 15,Vietnam,97338579
-16,DR Congo,89561403
+16,Republic of the Congo,89561403
 17,Turkey,84339067
 18,Iran,83992949
 19,Germany,83783942
@@ -51,7 +51,7 @@ id,countryName,countryPop
 50,Venezuela,28435940
 51,Madagascar,27691018
 52,Cameroon,26545863
-53,Côte d'Ivoire,26378274
+53,Ivory Coast,26378274
 54,North Korea,25778816
 55,Australia,25499884
 56,Niger,24206644
@@ -165,12 +165,12 @@ id,countryName,countryPop
 164,Guyana,786552
 165,Bhutan,771608
 166,Solomon Islands,686884
-167,Macao,649335
+167,Macau,649335
 168,Montenegro,628066
 169,Luxembourg,625978
 170,Western Sahara,597339
 171,Suriname,586632
-172,Cabo Verde,555987
+172,Cape Verde,555987
 173,Maldives,540544
 174,Malta,441543
 175,Brunei,437479
@@ -185,7 +185,7 @@ id,countryName,countryPop
 184,New Caledonia,285498
 185,French Polynesia,280908
 186,Mayotte,272815
-187,Sao Tome & Principe,219159
+187,SÃ£o TomÃ© and PrÃ-ncipe,219159
 188,Samoa,198414
 189,Saint Lucia,183627
 190,Channel Islands,173863
@@ -209,8 +209,8 @@ id,countryName,countryPop
 208,Northern Mariana Islands,57559
 209,Greenland,56770
 210,American Samoa,55191
-211,Saint Kitts & Nevis,53199
-212,Faeroe Islands,48863
+211,Saint Kitts and Nevis,53199
+212,Faroe Islands,48863
 213,Sint Maarten,42876
 214,Monaco,39242
 215,Turks and Caicos,38717
@@ -226,7 +226,7 @@ id,countryName,countryPop
 225,Tuvalu,11792
 226,Wallis & Futuna,11239
 227,Nauru,10824
-228,Saint Barthelemy,9877
+228,Saint BarthÃ©lemy,9877
 229,Saint Helena,6077
 230,Saint Pierre & Miquelon,5794
 231,Montserrat,4992
@@ -234,3 +234,5 @@ id,countryName,countryPop
 233,Niue,1626
 234,Tokelau,1357
 235,Vatican City,801
+236,Diamond Princess,3711
+237,MS Zaandam,1829
